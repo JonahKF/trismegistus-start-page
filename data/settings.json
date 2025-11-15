@@ -1,6 +1,6 @@
 {
-	"username": "Excalith",
-	"title": "Excalith Start Page",
+	"username": "trismegistus",
+	"title": "Trismegistus Start Page",
 	"theme": {
 		"name": "Default",
 		"backgroundColor": "#121317",
@@ -120,8 +120,8 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "Portfolio",
-						"url": "https://cancellek.com",
+						"name": "Profile Site",
+						"url": "https://jonahkf.github.io/profile-site/",
 						"icon": "mdi:web"
 					},
 					{
@@ -130,14 +130,14 @@
 						"icon": "fa-brands:keybase"
 					},
 					{
-						"name": "GPT",
-						"url": "https://chat.openai.com/",
-						"icon": "simple-icons:openai"
+						"name": "Gemini",
+						"url": "https://gemini.google.com/app",
+						"icon": "simple-icons:gemini"
 					},
 					{
-						"name": "OCI",
-						"url": "https://www.oracle.com/cloud/",
-						"icon": "simple-icons:oracle"
+						"name": "Perplexity",
+						"url": "https://www.perplexity.ai/",
+						"icon": "simple-icons:perplexity"
 					}
 				]
 			},
