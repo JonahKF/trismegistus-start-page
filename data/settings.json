@@ -132,7 +132,7 @@
 					{
 						"name": "Gemini",
 						"url": "https://gemini.google.com/app",
-						"icon": "simple-icons:gemini"
+						"icon": "simple-icons:googlegemini"
 					},
 					{
 						"name": "Perplexity",
