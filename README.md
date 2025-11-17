@@ -1,8 +1,8 @@
 <div align="center">
-	<h1 align="center">Excalith Start Page</h1>
+	<h1 align="center">Trismegistus Start Page</h1>
 	<img src=".github/startpage.gif" />
 
-This is an interactive start page for browsers, inspired from my terminal setup.
+A fork of [https://github.com/excalith/excalith-start-page], made for my personal Firefox setup on Arch Linux.
 
 [![Vercel Status](https://therealsujitk-vercel-badge.vercel.app/?app=excalith-start-page)](https://excalith-start-page.vercel.app)
 [![Demo Version (latest semver)](https://img.shields.io/github/package-json/v/excalith/excalith-start-page?label=preview)](https://github.com/excalith/excalith-start-page)
