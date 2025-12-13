@@ -179,8 +179,8 @@
 						"icon": "mdi:reddit"
 					},
 					{
-						"name": "r/gamingleaksandrumors",
-						"url": "https://reddit.com/r/gamingleaksandrumors/",
+						"name": "r/manga",
+						"url": "https://www.reddit.com/r/manga/",
 						"icon": "mdi:reddit"
 					},
 					{
@@ -231,11 +231,6 @@
 						"name": "Everything Moe",
 						"url": "https://everythingmoe.com/",
 						"icon": "material-symbols:science"
-					},
-					{
-						"name": "r/manga",
-						"url": "https://www.reddit.com/r/manga/",
-						"icon": "mdi:reddit"
 					},
 					{
 						"name": "My Anime List",
