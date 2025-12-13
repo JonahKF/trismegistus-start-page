@@ -149,12 +149,12 @@
 					{
 						"name": "localhost Vite",
 						"url": "http://localhost:5173/",
-						"icon": "devicon:vite"
+						"icon": "simple-icons:vite"
 					},
 					{
 						"name": "localhost Astro",
-						"url": "http://localhost:5173/",
-						"icon": "devicon:astro"
+						"url": "http://localhost:4321/",
+						"icon": "simple-icons:astro"
 					},
 					{
 						"name": "GitHub",
@@ -235,12 +235,12 @@
 					{
 						"name": "My Anime List",
 						"url": "https://myanimelist.net/profile/RubyWalrus",
-						"icon": "material-symbols:tv_gen"
+						"icon": "material-symbols:tv-gen"
 					},
 					{
 						"name": "LiveChart",
 						"url": "https://www.livechart.me/schedule?layout=timetable",
-						"icon": "material-symbols:calendar_clock"
+						"icon": "material-symbols:calendar-clock"
 					}
 				]
 			},
