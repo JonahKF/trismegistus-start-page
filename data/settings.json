@@ -127,7 +127,7 @@
 					{
 						"name": "Wikipedia",
 						"url": "https://en.wikipedia.org/",
-						"icon": "fa-brands:wikipedia"
+						"icon": "simple-icons:wikipedia"
 					},
 					{
 						"name": "Gemini",
