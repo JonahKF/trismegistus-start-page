@@ -120,14 +120,14 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "Profile Site",
+						"name": "Portfolio",
 						"url": "https://jonahkf.github.io/profile-site/",
 						"icon": "mdi:web"
 					},
 					{
-						"name": "Keybase",
-						"url": "https://keybase.io/",
-						"icon": "fa-brands:keybase"
+						"name": "Wikipedia",
+						"url": "https://en.wikipedia.org/",
+						"icon": "fa-brands:wikipedia"
 					},
 					{
 						"name": "Gemini",
@@ -147,19 +147,19 @@
 				"align": "left",
 				"links": [
 					{
+						"name": "localhost Vite",
+						"url": "http://localhost:5173/",
+						"icon": "mdi:vite"
+					},
+					{
+						"name": "localhost Astro",
+						"url": "http://localhost:5173/",
+						"icon": "mdi:astro"
+					},
+					{
 						"name": "GitHub",
 						"url": "https://github.com",
 						"icon": "mdi:github"
-					},
-					{
-						"name": "GitLab",
-						"url": "https://gitlab.com",
-						"icon": "ph:gitlab-logo-simple-fill"
-					},
-					{
-						"name": "Dev.to",
-						"url": "https://dev.to",
-						"icon": "material-symbols:logo-dev"
 					},
 					{
 						"name": "Stack Overflow",
@@ -169,29 +169,29 @@
 				]
 			},
 			{
-				"title": "Social",
+				"title": "Reddit",
 				"color": "cyan",
 				"align": "left",
 				"links": [
 					{
-						"name": "Twitter",
-						"url": "https://twitter.com",
-						"icon": "mdi:twitter"
-					},
-					{
-						"name": "Mastodon",
-						"url": "https://mastodon.social/",
-						"icon": "ri:mastodon-fill"
-					},
-					{
-						"name": "Reddit",
-						"url": "https://reddit.com",
+						"name": "r/unixporn",
+						"url": "https://reddit.com/r/unixporn/",
 						"icon": "mdi:reddit"
 					},
 					{
-						"name": "Polywork",
-						"url": "https://polywork.com",
-						"icon": "simple-icons:polywork"
+						"name": "r/gamingleaksandrumors",
+						"url": "https://reddit.com/r/gamingleaksandrumors/",
+						"icon": "mdi:reddit"
+					},
+					{
+						"name": "r/battlestations",
+						"url": "https://reddit.com/r/battlestations/",
+						"icon": "mdi:reddit"
+					},
+					{
+						"name": "r/linux",
+						"url": "https://www.reddit.com/r/linux/",
+						"icon": "mdi:reddit"
 					}
 				]
 			},
@@ -223,28 +223,28 @@
 				]
 			},
 			{
-				"title": "Science",
+				"title": "Otaku",
 				"color": "blue",
 				"align": "left",
 				"links": [
 					{
-						"name": "PopSci",
-						"url": "https://popsci.com/",
+						"name": "Everything Moe",
+						"url": "https://everythingmoe.com/",
 						"icon": "material-symbols:science"
 					},
 					{
-						"name": "Space",
-						"url": "fa6-solid:user-astronaut",
+						"name": "r/manga",
+						"url": "https://www.reddit.com/r/manga/",
 						"icon": "mdi:reddit"
 					},
 					{
-						"name": "NASA",
-						"url": "https://blogs.nasa.gov/",
+						"name": "My Anime List",
+						"url": "https://myanimelist.net/profile/RubyWalrus",
 						"icon": "simple-icons:nasa"
 					},
 					{
-						"name": "ESA",
-						"url": "https://blogs.esa.int/",
+						"name": "LiveChart",
+						"url": "https://www.livechart.me/schedule?layout=timetable",
 						"icon": "mdi:black-mesa"
 					}
 				]
