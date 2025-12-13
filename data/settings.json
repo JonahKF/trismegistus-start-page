@@ -149,12 +149,12 @@
 					{
 						"name": "localhost Vite",
 						"url": "http://localhost:5173/",
-						"icon": "mdi:vite"
+						"icon": "devicon:vite"
 					},
 					{
 						"name": "localhost Astro",
 						"url": "http://localhost:5173/",
-						"icon": "mdi:astro"
+						"icon": "devicon:astro"
 					},
 					{
 						"name": "GitHub",
@@ -230,17 +230,17 @@
 					{
 						"name": "Everything Moe",
 						"url": "https://everythingmoe.com/",
-						"icon": "material-symbols:science"
+						"icon": "material-symbols:manga"
 					},
 					{
 						"name": "My Anime List",
 						"url": "https://myanimelist.net/profile/RubyWalrus",
-						"icon": "simple-icons:nasa"
+						"icon": "material-symbols:tv_gen"
 					},
 					{
 						"name": "LiveChart",
 						"url": "https://www.livechart.me/schedule?layout=timetable",
-						"icon": "mdi:black-mesa"
+						"icon": "material-symbols:calendar_clock"
 					}
 				]
 			},
