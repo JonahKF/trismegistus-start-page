@@ -1,16 +1,11 @@
 <div align="center">
-	<h1 align="center">Excalith Start Page</h1>
+	<h1 align="center">Trismegistus Start Page</h1>
 	<img src=".github/startpage.gif" />
 
-This is an interactive start page for browsers, inspired from my terminal setup.
-
-[![Vercel Status](https://therealsujitk-vercel-badge.vercel.app/?app=excalith-start-page)](https://excalith-start-page.vercel.app)
-[![Demo Version (latest semver)](https://img.shields.io/github/package-json/v/excalith/excalith-start-page?label=preview)](https://github.com/excalith/excalith-start-page)
-[![GHCR Version (latest semver)](https://img.shields.io/github/v/tag/excalith/excalith-start-page?sort=semver&label=ghcr)](https://github.com/excalith/excalith-start-page/pkgs/container/excalith-start-page)
-[![Docker Version (latest semver)](https://img.shields.io/docker/v/excalith/start-page?sort=semver&label=docker)](https://hub.docker.com/r/excalith/start-page)
+A fork of [https://github.com/excalith/excalith-start-page], made for my personal Firefox setup on Arch Linux.
 
 </div>
 
 ## License
 
-The code is available under the [MIT license](LICENSE). Feel free to copy, modify, and distribute the code as you wish, but please keep the original license in the files. Attribution is appreciated and will definetely help improving this project.
+The code is available under the [MIT license](LICENSE). I recommend forking the main repo by Excalith.
